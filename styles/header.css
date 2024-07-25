@@ -28,7 +28,6 @@
     display: none;
     position: absolute;
     top:100%;
-    widht: 60vw; /*add 02/07*/
 }
 
 .container-botao:checked ~ .lista-menu {
