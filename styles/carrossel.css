@@ -76,3 +76,12 @@
 .botoes-item {
     margin: 0 0.5em;
 }
+
+hr {
+    margin: 0;
+}
+
+.rodapé {
+    background-color: var(--branco);
+    padding: 1em;
+}
